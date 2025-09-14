@@ -1,1 +1,2 @@
-This is a prototype of Job Portal.
+# Job Portal
+This is a prototype of a Job Portal.
